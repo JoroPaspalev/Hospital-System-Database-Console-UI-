@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -6,7 +6,22 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Migrations\20200709135300_InitialSetUp.cs" />
+    <Compile Remove="Migrations\20200709135300_InitialSetUp.Designer.cs" />
+    <Compile Remove="Migrations\20200709135551_Change1.cs" />
+    <Compile Remove="Migrations\20200709135551_Change1.Designer.cs" />
+    <Compile Remove="Migrations\20200709135854_Change1.cs" />
+    <Compile Remove="Migrations\20200709135854_Change1.Designer.cs" />
+    <Compile Remove="Migrations\20200709140414_InitialSetUp.cs" />
+    <Compile Remove="Migrations\20200709140414_InitialSetUp.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
   </ItemGroup>
 
 </Project>

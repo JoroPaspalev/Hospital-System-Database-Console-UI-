@@ -38,8 +38,11 @@ C:\Users\JP PC\source\repos\Exercises_Code_First\P01_HospitalDatabase\bin\Debug\
 C:\Users\JP PC\source\repos\Exercises_Code_First\P01_HospitalDatabase\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\JP PC\source\repos\Exercises_Code_First\P01_HospitalDatabase\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\JP PC\source\repos\Exercises_Code_First\P01_HospitalDatabase\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\JP PC\source\repos\Exercises_Code_First\P01_HospitalDatabase\obj\Debug\netcoreapp3.1\P01_HospitalDatabase.csproj.CoreCompileInputs.cache
 C:\Users\JP PC\source\repos\Exercises_Code_First\P01_HospitalDatabase\obj\Debug\netcoreapp3.1\P01_HospitalDatabase.csproj.CopyComplete
 C:\Users\JP PC\source\repos\Exercises_Code_First\P01_HospitalDatabase\obj\Debug\netcoreapp3.1\P01_HospitalDatabase.dll
 C:\Users\JP PC\source\repos\Exercises_Code_First\P01_HospitalDatabase\obj\Debug\netcoreapp3.1\P01_HospitalDatabase.pdb
 C:\Users\JP PC\source\repos\Exercises_Code_First\P01_HospitalDatabase\obj\Debug\netcoreapp3.1\P01_HospitalDatabase.genruntimeconfig.cache
+C:\Users\JP PC\source\repos\Exercises_Code_First\P01_HospitalDatabase\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\JP PC\source\repos\Exercises_Code_First\P01_HospitalDatabase\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\JP PC\source\repos\Exercises_Code_First\P01_HospitalDatabase\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JP PC\source\repos\Exercises_Code_First\P01_HospitalDatabase\obj\Debug\netcoreapp3.1\P01_HospitalDatabase.csproj.CoreCompileInputs.cache

@@ -19,6 +19,12 @@ namespace P01_HospitalDatabase.Data.Models
         [MaxLength(100)]
         public string Name { get; set; }
 
+        [MaxLength(44)]
+        public string Username { get; set; }
+
+        [MaxLength(26)]
+        public string Password { get; set; }
+
         [MaxLength(100)]
         public string Specialty { get; set; }
 

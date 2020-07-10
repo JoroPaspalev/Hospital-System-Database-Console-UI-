@@ -57,6 +57,10 @@ namespace P01_HospitalDatabase.Data
                 .HasOne(v => v.Doctor)
                 .WithMany(d => d.Visitations)
                 .HasForeignKey(v => v.DoctorId);
+
+                entity
+                .Property(x => x.Date)
+                .HasDefaultValueSql("GetDate()");
             });
 
             modelBuilder.Entity<Diagnose>(entity =>
